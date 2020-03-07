@@ -1,0 +1,290 @@
+[
+  {
+    "title": "Design Microservice Architectures the Right Way",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=j6ow-UemzBc",
+    "date": "2020-02-12T14:20:21.638Z",
+    "type": "youtube",
+    "tags": ["microservices"]
+  },
+  {
+    "title": "BREAKING: Google exported your private data to random people",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=wpa6gQCOmhw",
+    "date": "2020-02-09T14:20:21.638Z",
+    "type": "youtube",
+    "tags": ["privacy", "google"]
+  },
+  {
+    "title": "Azure Pipelines - Release",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=UUmgg2xqFxU",
+    "date": "2020-01-29T14:20:21.638Z",
+    "type": "youtube",
+    "tags": ["azure-pipelines"]
+  },
+  {
+    "title": "Azure Pipelines - Build",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=7pzBwuMjpP0",
+    "date": "2020-01-29T14:20:21.638Z",
+    "type": "youtube",
+    "tags": ["azure-pipelines"]
+  },
+  {
+    "title": "Dapr, Rudr, OAM | Mark Russinovich presents next gen app development & deployment (Microsoft Ignite)",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=LAUDVk8PaCY",
+    "date": "2020-01-04T14:20:21.638Z",
+    "type": "youtube",
+    "tags": ["dapr"]
+  },
+  {
+    "title": "How to use Azure Bastion to connect securely to your Azure VMs | Azure Friday",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=WElUQm02BTU",
+    "date": "2020-01-04T14:19:21.638Z",
+    "type": "youtube",
+    "tags": ["azure", "security"]
+  },
+  {
+    "title": "DataTable (Flutter Widget of the Week)",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=ktTajqbhIcY",
+    "date": "2019-12-23T13:19:21.638Z",
+    "type": "youtube",
+    "tags": ["flutter"]
+  },
+  {
+    "title": "How I Hacked 30 Mobile Banking Apps (And The Future of API Security)",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=hoZ3YY-2B2E",
+    "date": "2019-12-05T11:19:21.638Z",
+    "type": "youtube",
+    "tags": ["security"]
+  },
+  {
+    "title": "An Illustrated Guide to OAuth and OpenID Connect",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=t18YB3xDfXI",
+    "date": "2019-12-04T11:19:21.638Z",
+    "type": "youtube",
+    "tags": ["security"]
+  },
+  {
+    "title": "Improve security with Azure Sentinel, a cloud-native SIEM and SOAR solution | Azure Friday",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=oiWInLYvnUk",
+    "date": "2019-11-10T17:19:21.638Z",
+    "type": "youtube",
+    "tags": ["azure"]
+  },
+  {
+    "title": "SizedBox (Flutter Widget of the Week)",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=EHPu_DzRfqA",
+    "date": "2019-10-26T17:19:21.638Z",
+    "type": "youtube",
+    "tags": ["flutter"]
+  },
+  {
+    "title": "GOTO 2018 • Introduction to OAuth 2.0 and OpenID Connect • Philippe De Ryck",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=GyCL8AJUhww",
+    "date": "2019-09-22T00:19:21.638Z",
+    "type": "youtube",
+    "tags": ["security"]
+  },
+  {
+    "title": "Proof Key for Code Exchange (PKCE)",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=2pJShFKYoJc",
+    "date": "2019-09-22T00:19:21.638Z",
+    "type": "youtube",
+    "tags": ["security"]
+  },
+  {
+    "title": "What is JWT ? JSON Web Token Explained",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=926mknSW9Lo",
+    "date": "2019-09-22T00:19:21.638Z",
+    "type": "youtube",
+    "tags": ["security"]
+  },
+  {
+    "title": "OAuth and OpenID Connect for Microservices",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=BdKmZ7mPNns",
+    "date": "2019-09-22T00:19:21.638Z",
+    "type": "youtube",
+    "tags": ["security"]
+  },
+  {
+    "title": "OAuth 2.0: An Overview",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=CPbvxxslDTU",
+    "date": "2019-09-22T00:19:21.638Z",
+    "type": "youtube",
+    "tags": ["security"]
+  },
+  {
+    "title": "How does HTTPS work? What's a CA? What's a self-signed Certificate?",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=T4Df5_cojAs",
+    "date": "2019-09-21T00:19:21.638Z",
+    "type": "youtube",
+    "tags": ["security"]
+  },
+  {
+    "title": "What Is JWT and Why Should You Use JWT",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=7Q17ubqLfaM",
+    "date": "2019-09-21T00:19:21.638Z",
+    "type": "youtube",
+    "tags": ["security"]
+  },
+  {
+    "title": "Authentication on the Web (Sessions, Cookies, JWT, localStorage, and more)",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=2PPSXonhIck",
+    "date": "2019-09-21T00:19:21.638Z",
+    "type": "youtube",
+    "tags": ["security"]
+  },
+  {
+    "title": "Analyzing your applications with Application Insights",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=pqZF8LjBh68",
+    "date": "2019-09-14T00:19:21.638Z",
+    "type": "youtube",
+    "tags": ["azure"]
+  },
+  {
+    "title": "Webinar: XOR DDoS - Post Attack Analysis",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=YxY7i7R0R2U",
+    "date": "2019-09-14T00:19:21.638Z",
+    "type": "youtube",
+    "tags": ["security"]
+  },
+  {
+    "title": "[GreHack 2017] Down The Rabbit Hole: How Hackers Exploit Weak SSH Credentials To Build DDoS Botnets",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=jEtke3Dfxeo",
+    "date": "2019-09-14T00:19:21.638Z",
+    "type": "youtube",
+    "tags": ["security"]
+  },
+  {
+    "title": "Securing Web Applications and APIs with ASP.NET Core 2.2 and 3.0 - Brock Allen & Dominick Baier",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=EYk3KTwwbFA",
+    "date": "2019-09-14T00:19:21.638Z",
+    "type": "youtube",
+    "tags": ["aspnet-core"]
+  },
+  {
+    "title": "The Async Await Episode I Promised",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=vn3tm0quoqE",
+    "date": "2019-09-14T00:19:21.638Z",
+    "type": "youtube",
+    "tags": ["asynchronous-programming", "javascript"]
+  },
+  {
+    "title": "Implementing Authentication and Authorization with ASP.NET Core 2 - Chris Klug",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=-50ntzz18XU",
+    "date": "2019-09-03T00:19:21.638Z",
+    "type": "youtube",
+    "tags": ["security", "aspnet-core"]
+  },
+  {
+    "title": "OAuth 2.0 and OpenID Connect (in plain English)",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=996OiexHze0",
+    "date": "2019-08-31T00:19:21.638Z",
+    "type": "youtube",
+    "tags": ["security"]
+  },
+  {
+    "title": "IdentityServer4: New & Improved for ASP.NET Core - Brock Allen & Dominick Baier",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=YXdJ2HLAOdE",
+    "date": "2019-08-27T00:19:21.638Z",
+    "type": "youtube",
+    "tags": ["aspnet-core"]
+  },
+  {
+    "title": "Modeling Data for NoSQL Document Databases",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=IUxT7ZRHlZ4",
+    "date": "2019-06-13T16:19:21.638Z",
+    "type": "youtube",
+    "tags": ["databases", "nosql"]
+  },
+  {
+    "title": "",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=tsolQ4pKM6U",
+    "date": "2017-06-17T16:42:21.638Z",
+    "type": "youtube",
+    "tags": ["microsoft-orleans"]
+  },
+  {
+    "title": "",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=kl-NeEAb1WQ",
+    "date": "2018-09-06T16:42:21.638Z",
+    "type": "youtube",
+    "tags": ["microservices", "dotnet-core"]
+  },
+  {
+    "title": "",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=cNdPbTB72bw",
+    "date": "2019-06-04T16:42:21.638Z",
+    "type": "youtube",
+    "tags": ["microservices", "dotnet-core"]
+  },
+  {
+    "title": "",
+    "description": "",
+    "image": "",
+    "url": "https://www.youtube.com/watch?v=icwD6xkyrsc",
+    "date": "2017-06-21T16:42:21.638Z",
+    "type": "youtube",
+    "tags": ["logging", "aspnet-core"]
+  }
+]
