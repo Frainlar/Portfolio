@@ -54,13 +54,13 @@ const ArticleHero = ({ article }: IArticleHeroProps) => {
                 <span>
                   <a
                     className="twitter-follow-button"
-                    href="https://twitter.com/abhithrajan"
+                    href="https://twitter.com/EdsonFrainlar"
                     data-show-screen-name="false"
                   >
-                    Follow @AbhithRajan
+                    Follow @EdsonFrainlar
                   </a>
                 </span>
-                <span>by Abhith Rajan</span>
+                <span>by Edson Frainlar</span>
                 <span>
                   {article.date} &middot; {article.timeToRead} &middot; Last
                   Updated:{" "}

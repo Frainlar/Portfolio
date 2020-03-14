@@ -4,11 +4,11 @@ import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import LatestPosts from "../components/home/LatestPosts";
 import Hero from "../components/home/Hero";
-import StoriesRoll from "../components/StoriesRoll";
-import FeaturedSidebar from "../components/FeaturedSidebar";
+// import StoriesRoll from "../components/StoriesRoll";
+// import FeaturedSidebar from "../components/FeaturedSidebar";
 import SEO from "../components/SEO";
-import VideosRoll from "../components/VideosRoll";
-import Button from "../components/Button";
+// import VideosRoll from "../components/VideosRoll";
+// import Button from "../components/Button";
 
 export const IndexPageTemplate = ({
   stories,
@@ -22,7 +22,7 @@ export const IndexPageTemplate = ({
     <SEO />
     <Hero />
     <LatestPosts />
-    <div className="hero is-primary is-bold">
+    {/* <div className="hero is-primary is-bold">
       <div className="hero-body">
         <div className="container is-fluid">
           <div className="columns is-centered">
@@ -46,8 +46,8 @@ export const IndexPageTemplate = ({
           </div>
         </div>
       </div>
-    </div>
-    <div className="section">
+    </div> */}
+    {/* <div className="section">
       <div className="container is-fluid">
         <div className="columns">
           <div className="column is-one-third">
@@ -79,7 +79,7 @@ export const IndexPageTemplate = ({
           </div>
         </div>
       </div>
-    </div>
+    </div> */}
   </>
 );
 

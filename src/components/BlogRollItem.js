@@ -22,7 +22,7 @@ const BlogRollItem = ({ post }) => {
                 <img src="/img/edson-frainlar.jpg" alt="Edson Frainlar" />
               </div>
               <div className="author-name">
-                <span>by Abhith Rajan</span>
+                <span>by Edson Frainlar</span>
                 <span>
                   <small>in</small> {post.tags.join()}
                 </span>

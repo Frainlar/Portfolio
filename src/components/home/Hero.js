@@ -36,27 +36,27 @@ export default function Hero() {
                         type: ["images"],
                         images: [
                           {
-                            src: "/img/site/particles/react.svg",
+                            src: "/img/site/particles/docker.png",
                             height: 20,
                             width: 23
                           },
                           {
-                            src: "/img/site/particles/nuxt-emoji.png",
+                            src: "/img/site/particles/flutter.png",
                             height: 20,
                             width: 23
                           },
                           {
-                            src: "/img/site/particles/k8s.svg",
+                            src: "/img/site/particles/google-cloud.png",
                             height: 20,
                             width: 20
                           },
                           {
-                            src: "/img/site/particles/code.png",
+                            src: "/img/site/particles/graphql.png",
                             height: 20,
                             width: 20
                           },
                           {
-                            src: "/img/site/particles/github.png",
+                            src: "/img/site/particles/mongodb.png",
                             height: 20,
                             width: 20
                           },
@@ -67,12 +67,32 @@ export default function Hero() {
                             width: 20
                           },
                           {
-                            src: "/img/site/particles/microsoft-azure-3.png",
+                            src: "/img/site/particles/jenkins.png",
                             height: 20,
                             width: 20
                           },
                           {
-                            src: "/img/site/particles/vue-9.png",
+                            src: "/img/site/particles/kubernetes.png",
+                            height: 20,
+                            width: 20
+                          },
+                          {
+                            src: "/img/site/particles/nodejs.png",
+                            height: 20,
+                            width: 20
+                          },
+                          {
+                            src: "/img/site/particles/react.png",
+                            height: 20,
+                            width: 20
+                          },
+                          {
+                            src: "/img/site/particles/rxjs.png",
+                            height: 20,
+                            width: 20
+                          },
+                          {
+                            src: "/img/site/particles/terraform.png",
                             height: 20,
                             width: 20
                           }

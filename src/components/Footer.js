@@ -31,8 +31,8 @@ function Footer() {
                   />
                 </div>
                 <div className="brand-content">
-                  <div className="brand-title"> Abhith Rajan </div>
-                  <div className="brand-subtitle">Full Stack Dev</div>
+                  <div className="brand-title"> Edson Frainlar </div>
+                  <div className="brand-subtitle">Full Stack | DevOps </div>
                 </div>
               </Link>
               <hr className="spacer"></hr>
@@ -86,7 +86,7 @@ function Footer() {
                     <li>
                       <OutboundLink
                         target="_blank"
-                        href={`https://www.linkedin.com/in/abhith`}
+                        href={`https://www.linkedin.com/in/edson-frainlar/`}
                       >
                         <img
                           role="presentation"
@@ -99,7 +99,7 @@ function Footer() {
                     <li>
                       <OutboundLink
                         target="_blank"
-                        href={`https://gitlab.com/abhith`}
+                        href={`https://gitlab.com/frainlar`}
                       >
                         <img
                           role="presentation"
@@ -112,30 +112,30 @@ function Footer() {
                     <li className="has-margin">
                       <a
                         className="twitter-follow-button"
-                        href="https://twitter.com/abhithrajan"
+                        href="https://twitter.com/EdsonFrainlar"
                         data-size="large"
                         data-show-screen-name="false"
                       >
-                        Follow @AbhithRajan
+                        Follow @EdsonFrainlar
                       </a>
                     </li>
                     <li className="has-margin">
                       <GitHubButton
-                        href="https://github.com/Abhith"
+                        href="https://github.com/Frainlar"
                         data-size="large"
                         data-show-count="true"
-                        aria-label="Follow @Abhith on GitHub"
+                        aria-label="Follow @Frainlar on GitHub"
                       >
-                        Follow @Abhith
+                        Follow @Frainlar
                       </GitHubButton>
                     </li>
                     <li className="has-margin">
                       <GitHubButton
-                        href="https://github.com/Abhith/abhith.net"
+                        href="https://github.com/Frainlar/Portfolio/"
                         data-icon="octicon-star"
                         data-size="large"
                         data-show-count="true"
-                        aria-label="Star Abhith/abhith.net on GitHub"
+                        aria-label="Star Frainlar/Portfolio on GitHub"
                       >
                         Star
                       </GitHubButton>
