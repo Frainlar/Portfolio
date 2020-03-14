@@ -1,6 +1,6 @@
 const {
   NODE_ENV,
-  URL: NETLIFY_SITE_URL = "https://www.abhith.net",
+  URL: NETLIFY_SITE_URL = "https://edsonfrainlar.com",
   DEPLOY_PRIME_URL: NETLIFY_DEPLOY_URL = NETLIFY_SITE_URL,
   CONTEXT: NETLIFY_ENV = NODE_ENV
 } = process.env;
@@ -16,21 +16,19 @@ const templates = {
 
 module.exports = {
   siteMetadata: {
-    title: "Abhith Rajan",
+    title: "Edson Frainlar Inghyasi",
     description:
-      "An aspiring software engineer with more than 7 years of experience.",
+      "Mission-driven Full stack Developer with a passion for thoughtful UI Design, DevOps, Colloboration and teaching. Curious to explore Quantum Information and Computing. Amateur blogger on Technology and Socio-cultural Regions of India.",
     siteUrl,
     author: {
-      name: "Abhith Rajan",
-      minibio: `
-        Abhith Rajan is an aspiring software engineer with more than 6 years of experience and proven successful track record of delivering technology-based products and services.
-      `,
-      url: `https://twitter.com/abhithrajan`,
-      image: `https://www.abhith.net/img/abhith.jpg`
+      name: "Edson Frainlar Inghyasi",
+      minibio: "Mission-driven Full stack Developer with a passion for thoughtful UI Design, DevOps, Colloboration and teaching. Curious to explore Quantum Information and Computing. Amateur blogger on Technology and Socio-cultural Regions of India.",
+      url: `https://edsonfrainlar.com`,
+      image: `https://edsonfrainlar.com/img/edson-frainlar.jpg`
     },
-    image: `https://www.abhith.net/img/abhith.jpg`,
+    image: `https://edsonfrainlar.com/img/edson-frainlar.jpg`,
     social: {
-      twitter: "@AbhithRajan",
+      twitter: "@EdsonFrainlar",
       fbAppID: ""
     }
   },
@@ -167,8 +165,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Abhith Rajan`,
-        short_name: `Abhith`,
+        name: `Edson Frainlar Inghyasi`,
+        short_name: `Frainlar`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,

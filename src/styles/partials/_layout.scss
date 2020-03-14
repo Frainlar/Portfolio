@@ -142,6 +142,7 @@
 
 //Subtitles
 .subtitle {
+  font-size: 17px;
   opacity: 0.8;
   &.is-compact {
     max-width: 600px;
@@ -173,7 +174,7 @@
 
 .nav-logo {
   width: 112px;
-  height: 28px;
+  height: 40px;
 }
 
 .is-vertical-center {

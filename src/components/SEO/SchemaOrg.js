@@ -18,14 +18,14 @@ export default React.memo(
       {
         "@context": "http://schema.org",
         "@type": "Organization",
-        "@id": "https://wwww.abhith.net#organization",
+        "@id": "https://edsonfrainlar.com#organization",
         name: "Abhith Rajan",
-        url: "https://wwww.abhith.net",
+        url: "https://edsonfrainlar.com",
         sameAs: ["https://twitter.com/abhithrajan"],
         legalName: "Abhith Rajan",
         logo: {
           "@type": "ImageObject",
-          url: "https://wwww.abhith.net/img/android-chrome-144x144.png",
+          url: "https://edsonfrainlar.com/img/android-chrome-144x144.png",
           width: 144,
           height: 144
         },
@@ -34,7 +34,7 @@ export default React.memo(
           name: "Abhith Rajan",
           image: {
             "@type": "ImageObject",
-            url: "https://www.abhith.net/img/abhith.jpg",
+            url: "https://edsonfrainlar.com/img/edson-frainlar.jpg",
             width: 300,
             height: 300
           }
@@ -43,12 +43,12 @@ export default React.memo(
       {
         "@context": "http://schema.org",
         "@type": "WebSite",
-        "@id": "https://wwww.abhith.net#website",
-        url: "https://wwww.abhith.net",
+        "@id": "https://edsonfrainlar.com#website",
+        url: "https://edsonfrainlar.com",
         name: "Abhith Rajan",
         alternateName: "Full Stack Developer | Abhith Rajan",
         author: {
-          "@id": "https://wwww.abhith.net#organization"
+          "@id": "https://edsonfrainlar.com#organization"
         }
       },
       {
@@ -59,10 +59,10 @@ export default React.memo(
         headline: title,
         description,
         publisher: {
-          "@id": "https://wwww.abhith.net#organization"
+          "@id": "https://edsonfrainlar.com#organization"
         },
         sourceOrganization: {
-          "@id": "https://wwww.abhith.net#organization"
+          "@id": "https://edsonfrainlar.com#organization"
         }
       }
     ];
@@ -97,10 +97,10 @@ export default React.memo(
             },
             description,
             author: {
-              "@id": "https://wwww.abhith.net#organization"
+              "@id": "https://edsonfrainlar.com#organization"
             },
             publisher: {
-              "@id": "https://wwww.abhith.net#organization"
+              "@id": "https://edsonfrainlar.com#organization"
             },
             mainEntityOfPage: {
               "@type": "WebSite",

@@ -109,8 +109,8 @@ export default function Hero() {
                         {/* TODO: load image from site meta */}
                         <img
                           className="is-rounded hero-avatar"
-                          src="/img/abhith.jpg"
-                          alt=""
+                          src="/img/edson-frainlar.jpg"
+                          alt="Edson Frainlar"
                         />
                       </figure>
                       <h1 className="title is-1 is-light is-semibold is-spaced main-title">

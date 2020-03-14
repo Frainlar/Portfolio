@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "gatsby";
 import {
-  FaCoffee,
+  // FaCoffee,
   FaRss,
   FaHeart,
   FaTwitter,
@@ -12,7 +12,7 @@ import {
 import { GoMarkGithub } from "react-icons/go";
 import { OutboundLink } from "gatsby-plugin-google-analytics";
 import { StaticQuery, graphql } from "gatsby";
-import Img from "gatsby-image";
+// import Img from "gatsby-image";
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -52,16 +52,19 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item">
-              <figure className="image is-vertical-center">
+              {/* <figure className="image is-vertical-center">
                 <Img
                   fluid={this.props.logo.childImageSharp.fluid}
                   className="nav-logo"
                 />
-              </figure>
+              </figure> */}
+              <h2>
+                <b>Edson Frainlar</b>
+              </h2>
             </Link>
             <OutboundLink
               className="navbar-item is-hidden-desktop"
-              href="https://github.com/Abhith/abhith.net"
+              href="https://github.com/Frainlar/Portfolio"
               target="_blank"
             >
               <span className="icon">
@@ -70,7 +73,7 @@ const Navbar = class extends React.Component {
             </OutboundLink>
             <OutboundLink
               className="navbar-item is-hidden-desktop"
-              href="https://twitter.com/AbhithRajan"
+              href="https://twitter.com/EdsonFrainlar"
               target="_blank"
             >
               <span className="icon" style={{ color: "#55acee" }}>
@@ -127,7 +130,7 @@ const Navbar = class extends React.Component {
             <div className="navbar-end">
               <OutboundLink
                 className="navbar-item is-hidden-desktop-only"
-                href="https://github.com/Abhith/abhith.net"
+                href="https://github.com/Frainlar/Portfolio"
                 target="_blank"
               >
                 <span className="icon">
@@ -136,7 +139,7 @@ const Navbar = class extends React.Component {
               </OutboundLink>
               <OutboundLink
                 className="navbar-item is-hidden-desktop-only"
-                href="https://twitter.com/AbhithRajan"
+                href="https://twitter.com/EdsonFrainlar"
                 target="_blank"
               >
                 <span className="icon" style={{ color: "#55acee" }}>
@@ -144,7 +147,7 @@ const Navbar = class extends React.Component {
                 </span>
               </OutboundLink>
 
-              <div className="navbar-item">
+              {/* <div className="navbar-item">
                 <div className="field is-grouped">
                   <p className="control">
                     <Link
@@ -157,7 +160,7 @@ const Navbar = class extends React.Component {
                     </Link>
                   </p>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
@@ -170,11 +173,11 @@ export default () => (
   <StaticQuery
     query={graphql`
       query {
-        logo: file(relativePath: { eq: "abhith-logo-lg.png" }) {
+        logo: file(relativePath: { eq: "logo.svg" }) {
           childImageSharp {
             fluid {
               ...GatsbyImageSharpFluid_withWebp
-            }
+            } 
           }
         }
       }

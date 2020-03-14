@@ -1,8 +1,8 @@
 {
-  "name": "abhith",
-  "description": "Abhith Rajan is an aspiring software engineer with more than 6 years of experience and proven successful track record of delivering technology-based products and services.",
-  "version": "2.0.0",
-  "author": "Abhith Rajan",
+  "name": "edson-frainlar",
+  "description": "Mission-driven Full stack Developer with a passion for thoughtful UI Design, DevOps, Colloboration and teaching. Curious to explore Quantum Information and Computing. Amateur blogger on Technology and Socio-cultural Regions of India.",
+  "version": "1.0.0",
+  "author": "Edson Frainlar",
   "dependencies": {
     "@emotion/core": "^10.0.27",
     "@emotion/styled": "^10.0.17",
@@ -83,7 +83,7 @@
     "start": "run-p start:**",
     "build:app": "npm run clean && gatsby build",
     "build": "run-p build:**",
-    "dev": "gatsby develop",
+    "develop": "gatsby develop",
     "serve": "gatsby serve",
     "format": "prettier --write \"{gatsby-*.js,src/**/*.js}\"",
     "test": "echo \"Error: no test specified\" && exit 1"

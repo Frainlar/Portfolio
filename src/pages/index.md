@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Full Stack Developer
 image: /img/site/mindmap.png
-heading: Abhith Rajan
+heading: Edson Frainlar
 subheading: >-
-  Abhith Rajan is an aspiring software engineer with more than 7 years of experience and proven successful track record of delivering technology-based products and services.
+  Mission-driven Full stack Developer with a passion for developing KTern, Dev Colloboration and teaching. Curious to explore Quantum Information and Computing. Amateur blogger on Technology and Socio-cultures of India.
 ---

@@ -161,8 +161,8 @@ export default ({ pageContext, location }) => {
                     <p className="image is-128x128">
                       <img
                         className="is-rounded"
-                        src={`https://www.abhith.net/img/abhith.jpg`}
-                        alt={`Abhith Rajan`}
+                        src={`https://edsonfrainlar.com/img/edson-frainlar.jpg`}
+                        alt={`Edson Frainlar`}
                       />
                     </p>
                   </figure>
@@ -184,8 +184,8 @@ export default ({ pageContext, location }) => {
                         <br />
                         {/* TODO: Make dynamic */}
                         {`
-        Abhith Rajan is an aspiring software engineer with more than 7 years of experience and proven successful track record of delivering technology-based products and services.
-      `}
+                        Mission-driven Full stack Developer with a passion for thoughtful UI Design, DevOps, Colloboration and teaching. Curious to explore Quantum Information and Computing. Amateur blogger on Technology and Socio-cultural Regions of India.
+                        `}
                         <br />
                         <Link
                           to="/donate"
