@@ -16,7 +16,7 @@ My role involves prototyping, developing backend as well as front end apps with 
 
 I blog about programming, code, technology and stuffs that I'm interested in.
 
-You can find me on [Twitter](https://twitter.com/abhithrajan), [GitHub](https://github.com/Abhith), [GitLab](https://gitlab.com/abhith) and [LinkedIn](https://www.linkedin.com/in/abhith/). If you want to email me, go ahead and send an email to [abhith@pm.me](mailto:abhith@pm.me).
+You can find me on [Twitter](https://twitter.com/abhithrajan), [GitHub](https://github.com/Abhith), [GitLab](https://gitlab.com/abhith) and [LinkedIn](https://www.linkedin.com/in/abhith/). If you want to email me, go ahead and send an email to [frainlar@pm.me](mailto:frainlar@pm.me).
 
 ## BACKGROUND
 

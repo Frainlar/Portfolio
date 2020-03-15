@@ -214,7 +214,7 @@ export default ({ pageContext, location }) => {
                   </OutboundLink>
                 </p>
               </div>
-              <Utterances repo={`Abhith/abhith.net`} />
+              <Utterances repo={`Frainlar/Portfolio`} />
             </div>
             <aside className="ar-side">
               <div className="sticky">
@@ -223,11 +223,11 @@ export default ({ pageContext, location }) => {
                   <div className="text-muted mb-1">⭐ On GitHub</div>
                   <div className="buttons is-centered">
                     <GitHubButton
-                      href="https://github.com/Abhith/abhith.net"
+                      href="https://github.com/Frainlar/Portfolio/"
                       data-icon="octicon-star"
                       data-size="large"
                       data-show-count="true"
-                      aria-label="Star Abhith/abhith.net on GitHub"
+                      aria-label="Star Frainlar/Portfolio on GitHub"
                     >
                       Star
                     </GitHubButton>

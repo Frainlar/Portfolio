@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Sen&display=swap');
 .hero,
 .section {
   &.is-transparent {
@@ -211,11 +212,11 @@ a[target="_blank"]::after {
 article {
   font-size: 20px;
   line-height: 1.86;
-  font-family: Lora, sans-serif;
+  font-family: 'Sen', sans-serif;
 }
 
 .article-headline {
-  font-family: Georgia, Times, Times New Roman, serif;
+  font-family: 'Sen', Times, Times New Roman, serif;
   font-size: 3.2rem;
   font-weight: 400;
   line-height: 1.15;

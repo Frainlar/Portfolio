@@ -36,4 +36,4 @@ We reserve the right to update or change our Privacy Policy at any time and you 
 
 #### Contact Information
 
-For any questions or concerns regarding the privacy policy, please email at abhith@pm.me.
+For any questions or concerns regarding the privacy policy, please email at frainlar@pm.me.

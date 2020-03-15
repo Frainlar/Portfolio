@@ -2,7 +2,8 @@ import React from "react";
 
 export const onRenderBody = ({ setHeadComponents, setPostBodyComponents }) => {
   const pluginOptions = {
-    googleAdClientId: `ca-pub-5964640183793435`,
+    // googleAdClientId: `ca-pub-5964640183793435`,
+    googleAdClientId: `ca-pub-3241554711075107`,
     head: true
   };
 
