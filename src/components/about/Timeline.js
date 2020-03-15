@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { OutboundLink } from "gatsby-plugin-google-analytics";
 import { FaFlag } from "react-icons/fa";
 
 export default class Timeline extends Component {
@@ -24,11 +25,69 @@ export default class Timeline extends Component {
               </div>
               <div className="timeline-content">
                 <p className="heading has-text-info has-text-weight-bold">
-                  March 2019
+                  March 2020
                 </p>
-                <p>Emcredit, Dubai - Software Engineer</p>
+                <p>
+                  Launched the Website &nbsp;
+                  <OutboundLink
+                    target="_blank"
+                    className="has-text-dark"
+                    href="https://www.edsonfrainlar.com"
+                  >
+                    https://edsonfrainlar.com
+                  </OutboundLink>
+                </p>
               </div>
             </div>
+            <header className="timeline-header">
+              <span className="tag is-primary">2020</span>
+            </header>
+            <div className="timeline-item">
+              <div className="timeline-marker is-icon">
+                <FaFlag></FaFlag>
+              </div>
+              <div className="timeline-content">
+                <p className="heading has-text-info	has-text-weight-bold">
+                  June 2019
+                </p>
+                <p>
+                  Started the Facebook Page &nbsp;
+                  <OutboundLink
+                    target="_blank"
+                    className="has-text-dark"
+                    href="https://www.facebook.com/unionofindianstates/"
+                  >
+                    United States of India
+                  </OutboundLink>
+                </p>
+              </div>
+            </div>
+            <div className="timeline-item">
+              <div className="timeline-marker is-icon">
+                <FaFlag></FaFlag>
+              </div>
+              <div className="timeline-content">
+                <p className="heading has-text-info has-text-weight-bold">
+                  February 2019
+                </p>
+                <p>
+                  Started the Facebook Page &nbsp;
+                  <OutboundLink
+                    target="_blank"
+                    className="has-text-dark"
+                    href="https://facebook.com/EdsonFrainlar"
+                  >
+                    Edson Frainlar
+                  </OutboundLink>
+                </p>
+              </div>
+            </div>
+            {/* <header className="timeline-header">
+              <span className="tag is-primary">2015</span>
+            </header>
+            <header className="timeline-header">
+              <span className="tag is-primary">2014</span>
+            </header> */}
             <header className="timeline-header">
               <span className="tag is-primary">2019</span>
             </header>
@@ -37,52 +96,41 @@ export default class Timeline extends Component {
                 <FaFlag></FaFlag>
               </div>
               <div className="timeline-content">
-                <p className="heading has-text-info	has-text-weight-bold">
-                  September 2018
+                <p className="heading has-text-info has-text-weight-bold">
+                  January 2018
                 </p>
-                <p>Unibeton Ready Mix, Dubai - Sr.Software Engineer</p>
+                <p>
+                  Product Engineer at &nbsp;
+                  <OutboundLink
+                    target="_blank"
+                    className="has-text-dark"
+                    href="https://ktern.com"
+                  >
+                    KTern
+                  </OutboundLink>
+                </p>
               </div>
             </div>
             <header className="timeline-header">
               <span className="tag is-primary">2018</span>
             </header>
-            <header className="timeline-header">
-              <span className="tag is-primary">2017</span>
-            </header>
-            <header className="timeline-header">
-              <span className="tag is-primary">2016</span>
-            </header>
             <div className="timeline-item">
               <div className="timeline-marker is-icon">
                 <FaFlag></FaFlag>
               </div>
               <div className="timeline-content">
                 <p className="heading has-text-info has-text-weight-bold">
-                  November 2015
-                </p>
-                <p>Sysberries Technology, Abu Dhabi — Software Engineer</p>
-              </div>
-            </div>
-            <header className="timeline-header">
-              <span className="tag is-primary">2015</span>
-            </header>
-            <header className="timeline-header">
-              <span className="tag is-primary">2014</span>
-            </header>
-            <header className="timeline-header">
-              <span className="tag is-primary">2013</span>
-            </header>
-            <div className="timeline-item">
-              <div className="timeline-marker is-icon">
-                <FaFlag></FaFlag>
-              </div>
-              <div className="timeline-content">
-                <p className="heading has-text-info has-text-weight-bold">
-                  July 2012
+                  June 2017
                 </p>
                 <p>
-                  Aabasoft Technologies Private Limited, India — Software
-                  Engineer
+                  Intern at &nbsp;
+                  <OutboundLink
+                    target="_blank"
+                    className="has-text-dark"
+                    href="https://www.kaartech.com/"
+                  >
+                   Kaar Technologies, India
+                  </OutboundLink>
                 </p>
               </div>
             </div>

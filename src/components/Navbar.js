@@ -58,9 +58,9 @@ const Navbar = class extends React.Component {
                   className="nav-logo"
                 />
               </figure> */}
-              <h2>
-                <b>Edson Frainlar</b>
-              </h2>
+              <h1 className="navbar-item">
+                <strong><i>Edson Frainlar</i></strong>
+              </h1>
             </Link>
             <OutboundLink
               className="navbar-item is-hidden-desktop"

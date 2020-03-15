@@ -38,7 +38,7 @@ export default ({ pageContext, location }) => {
     previous: IArticle;
   } = pageContext;
 
-  const githubURL = `https://github.com/Abhith/abhith.net/blob/master/content${article.slug.substring(
+  const githubURL = `https://github.com/Frainlar/Portfolio/blob/master/content${article.slug.substring(
     0,
     article.slug.length - 1
   )}.mdx`;
@@ -53,7 +53,7 @@ export default ({ pageContext, location }) => {
           <h5>
             👊 that ⭐️ button on the official{" "}
             <a
-              href="https://github.com/Abhith/abhith.net"
+              href="https://github.com/Frainlar/Portfolio"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -70,7 +70,7 @@ export default ({ pageContext, location }) => {
       note = (
         <div className="notification is-warning is-light">
           <h4>Sorry about that!</h4>
-          <p> TODO(abhith): let me know how can I improve it?</p>
+          <p> TODO(Frainlar): let me know how can I improve it?</p>
         </div>
       );
     } else {
@@ -170,15 +170,15 @@ export default ({ pageContext, location }) => {
                     <div className="content">
                       <p>
                         <strong className="title is-4">
-                          Written by {`Abhith Rajan`}
+                          Written by {`Edson Frainlar`}
                         </strong>{" "}
                         <span>
                           <a
                             className="twitter-follow-button"
-                            href="https://twitter.com/abhithrajan"
+                            href="https://twitter.com/EdsonFrainlar"
                             data-show-screen-name="false"
                           >
-                            Follow @AbhithRajan
+                            Follow @EdsonFrainlar
                           </a>
                         </span>
                         <br />

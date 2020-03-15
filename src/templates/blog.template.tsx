@@ -15,7 +15,7 @@ function BlogPage({ pageContext, data }) {
     <Layout>
       <SEO
         title="Blog"
-        description="Abhith Rajan on Programming, The Web, Open Source, .NET, The Cloud and More"
+        description="Edson Frainlar on Programming, Computer Science and Information Technology, Socio-cultural Regions of India, Quantum Technologies, Book reviews and sometimes politically"
         slug="\blog"
       />
 
