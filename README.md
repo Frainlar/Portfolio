@@ -1,16 +1,6 @@
-# edsonfrainlar.com
+# [Portfolio Website](https://edsonfrainlar.com)
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Frainlar_Portfolio&metric=alert_status)](https://sonarcloud.io/dashboard?id=Frainlar_Portfolio)
-
-This repo serves the source code for [edsonfrainlar.com](https://edsonfrainlar.com/).
-It follows the [JAMstack architecture](https://jamstack.org). Designed using [Bulma](https://bulma.io), and using [Render](https://render.com/) for continuous deployment.
-
-## Inspired By
-
-- [abhith.net] (https://abhith.net)
-- [wowthemesnet/mundana-theme-jekyll](https://github.com/wowthemesnet/mundana-theme-jekyll)
-- [cssninjaStudio/krypton](https://github.com/cssninjaStudio/krypton)
-- [narative/gatsby-theme-novela](https://github.com/narative/gatsby-theme-novela/)
+This repository serves the source code for [edsonfrainlar.com](https://edsonfrainlar.com/). It follows the [JAMstack architecture](https://jamstack.org). Designed using [Bulma](https://bulma.io), and using [Render](https://render.com/) for continuous deployment.
 
 ## Main Sections
 
@@ -27,6 +17,13 @@ Similar to Developer Stories, here I am listing videos which worth sharing. Watc
 ### Services
 
 There are plenty of online services available nowadays. Here I am sharing some of the useful ones which I explored yet.
+
+## Inspired By
+
+- [abhith.net](https://abhith.net)
+- [wowthemesnet/mundana-theme-jekyll](https://github.com/wowthemesnet/mundana-theme-jekyll)
+- [cssninjaStudio/krypton](https://github.com/cssninjaStudio/krypton)
+- [narative/gatsby-theme-novela](https://github.com/narative/gatsby-theme-novela/)
 
 ## CONTRIBUTING
 
