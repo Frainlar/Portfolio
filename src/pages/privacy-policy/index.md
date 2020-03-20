@@ -6,7 +6,7 @@ description: >-
     Read about our privacy statement which applies to any information or combination of information that could reasonably be used to identify you.
 ---
 
-"abhith.net" takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
+"edsonfrainlar.com" takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
 
 #### Collection of Routine Information
 

@@ -25,7 +25,7 @@ function Footer() {
               <Link to="/" className="brand">
                 <div className="brand-icon">
                   <img
-                    alt="Abhith Rajan"
+                    alt="Edson Frainlar"
                     role="presentation"
                     src="/img/site/brand/icon.png"
                   />

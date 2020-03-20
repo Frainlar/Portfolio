@@ -15,7 +15,7 @@ export default class RecommendedServicesIndexPage extends React.Component {
         <div className="container">
           <SEO
             title="Recommended Services"
-            description="Service/Service providers which Abhith recommends."
+            description="Service/Service providers which Edson Frainlar recommends."
             slug="\recommended\services"
           />
           <div className="section">

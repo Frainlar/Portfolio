@@ -15,7 +15,7 @@ function StoriesPage({ pageContext, data }) {
     <Layout>
       <SEO
         title="Recommended Developer Stories"
-        description="Developer stories which Abhith recommends."
+        description="Developer stories which Edson Frainlar recommends."
         slug="\recommended\stories"
       />
       <div className="section">

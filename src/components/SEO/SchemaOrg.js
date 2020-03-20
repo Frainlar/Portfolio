@@ -19,10 +19,10 @@ export default React.memo(
         "@context": "http://schema.org",
         "@type": "Organization",
         "@id": "https://edsonfrainlar.com#organization",
-        name: "Abhith Rajan",
+        name: "Edson Frainlar",
         url: "https://edsonfrainlar.com",
-        sameAs: ["https://twitter.com/abhithrajan"],
-        legalName: "Abhith Rajan",
+        sameAs: ["https://twitter.com/EdsonFrainlar"],
+        legalName: "Edson Frainlar",
         logo: {
           "@type": "ImageObject",
           url: "https://edsonfrainlar.com/img/android-chrome-144x144.png",
@@ -31,7 +31,7 @@ export default React.memo(
         },
         founder: {
           "@type": "Person",
-          name: "Abhith Rajan",
+          name: "Edson Frainlar",
           image: {
             "@type": "ImageObject",
             url: "https://edsonfrainlar.com/img/edson-frainlar.jpg",
@@ -45,8 +45,8 @@ export default React.memo(
         "@type": "WebSite",
         "@id": "https://edsonfrainlar.com#website",
         url: "https://edsonfrainlar.com",
-        name: "Abhith Rajan",
-        alternateName: "Full Stack Developer | Abhith Rajan",
+        name: "Edson Frainlar",
+        alternateName: "Full Stack Developer | Edson Frainlar",
         author: {
           "@id": "https://edsonfrainlar.com#organization"
         }

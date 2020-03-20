@@ -15,7 +15,7 @@ export default class RecommendedVideosIndexPage extends React.Component {
         <div className="container">
           <SEO
             title="Recommended Videos"
-            description="Videos which Abhith recommends."
+            description="Videos which Edson Frainlar recommends."
             slug="\recommended\videos"
           />
           <div className="section">
