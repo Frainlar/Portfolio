@@ -89,8 +89,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "@commitlint/cli": "^8.2.0",
-    "@commitlint/config-conventional": "^8.2.0",
+    "@commitlint/cli": "^10.0.0",
+    "@commitlint/config-conventional": "^10.0.0",
     "@types/lodash": "^4.14.149",
     "@types/node": "^13.7.0",
     "@types/react": "^16.9.19",
