@@ -34,69 +34,7 @@ export default function Hero() {
                       },
                       shape: {
                         type: ["images"],
-                        images: [
-                          {
-                            src: "/img/site/particles/docker.png",
-                            height: 20,
-                            width: 23
-                          },
-                          {
-                            src: "/img/site/particles/flutter.png",
-                            height: 20,
-                            width: 23
-                          },
-                          {
-                            src: "/img/site/particles/google-cloud.png",
-                            height: 20,
-                            width: 20
-                          },
-                          {
-                            src: "/img/site/particles/graphql.png",
-                            height: 20,
-                            width: 20
-                          },
-                          {
-                            src: "/img/site/particles/mongodb.png",
-                            height: 20,
-                            width: 20
-                          },
-
-                          {
-                            src: "/img/site/particles/javascript.png",
-                            height: 20,
-                            width: 20
-                          },
-                          {
-                            src: "/img/site/particles/jenkins.png",
-                            height: 20,
-                            width: 20
-                          },
-                          {
-                            src: "/img/site/particles/kubernetes.png",
-                            height: 20,
-                            width: 20
-                          },
-                          {
-                            src: "/img/site/particles/nodejs.png",
-                            height: 20,
-                            width: 20
-                          },
-                          {
-                            src: "/img/site/particles/react.png",
-                            height: 20,
-                            width: 20
-                          },
-                          {
-                            src: "/img/site/particles/rxjs.png",
-                            height: 20,
-                            width: 20
-                          },
-                          {
-                            src: "/img/site/particles/terraform.png",
-                            height: 20,
-                            width: 20
-                          }
-                        ]
+                        images: []
                       },
                       color: {
                         value: "#CCC"
@@ -125,14 +63,14 @@ export default function Hero() {
                 <div className="container">
                   <div className="columns is-vcentered">
                     <div className="column is-5 landing-caption">
-                      <figure className="image">
-                        {/* TODO: load image from site meta */}
+                      {/* <figure className="image">
+                        TODO: load image from site meta
                         <img
                           className="is-rounded hero-avatar"
                           src="/img/edson-frainlar.jpg"
                           alt="Edson Frainlar"
                         />
-                      </figure>
+                      </figure> */}
                       <h1 className="title is-1 is-light is-semibold is-spaced main-title">
                         {page.frontmatter.heading}
                       </h1>
@@ -149,7 +87,7 @@ export default function Hero() {
                         </Link>
                       </p>
                     </div>
-                    <div className="column is-7">
+                    {/* <div className="column is-7">
                       <figure className="image">
                         <PreviewCompatibleImage
                           imageInfo={{
@@ -158,7 +96,7 @@ export default function Hero() {
                           }}
                         />
                       </figure>
-                    </div>
+                    </div> */}
                   </div>
                 </div>
               </div>
@@ -176,13 +114,7 @@ export const query = graphql`
       frontmatter {
         heading
         subheading
-        image {
-          childImageSharp {
-            fluid(quality: 100) {
-              ...GatsbyImageSharpFluid_withWebp
-            }
-          }
-        }
+        
       }
     }
   }
