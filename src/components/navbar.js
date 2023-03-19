@@ -174,6 +174,13 @@ export default () => (
     query={graphql`
       query {
         logo: file(relativePath: { eq: "ef-logo.png" }) 
+        {
+          childImageSharp {
+            fluid {
+              ...GatsbyImageSharpFluid_withWebp_tracedSVG
+            } 
+          }
+        }
       }
     `}
     render={data => <Navbar logo={data.logo} />}
