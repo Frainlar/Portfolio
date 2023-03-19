@@ -1,4 +1,4 @@
-# EDSONFRAINLAR.COM
+# Edson Frainlar - My thoughts and experience about building enterprise class softwares
 
 ![website](./static/img/repo/banner.png)
 
@@ -32,5 +32,5 @@ Contributions are always welcome, no matter how large or small.
 Before contributing, please read the [code of conduct](CODE_OF_CONDUCT.md).
 
 ## INSPIRED FROM
-edsonfrainlar.com
+Abhith Rajan
 
