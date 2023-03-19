@@ -173,7 +173,7 @@ export default () => (
   <StaticQuery
     query={graphql`
       query {
-        logo: file(relativePath: { eq: "logo.svg" }) {
+        logo: file(relativePath: { eq: "ef-logo.png" }) {
           childImageSharp {
             fluid {
               ...GatsbyImageSharpFluid_withWebp
