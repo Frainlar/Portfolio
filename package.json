@@ -1,8 +1,8 @@
 {
-  "name": "abhith",
-  "description": "Abhith Rajan is a programmer, writer, technology advocate, and more.",
+  "name": "frainlar",
+  "description": "My thoughts about building enterprise scale softwares",
   "version": "2.0.0",
-  "author": "Abhith Rajan",
+  "author": "Edson Frainlar",
   "dependencies": {
     "@emotion/core": "^11.0.0",
     "@emotion/react": "^11.10.0",
