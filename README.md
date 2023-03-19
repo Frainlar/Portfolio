@@ -1,34 +1,30 @@
-# WWW.ABHITH.NET
+# [Portfolio Website](https://edsonfrainlar.com)
 
-![Discord](https://img.shields.io/discord/671364953487310854)
-
-![website](./static/img/repo/banner.png)
-
-This repo serves the source code for [www.abhith.net](https://www.abhith.net/).
-It follows the [JAMstack architecture](https://jamstack.org).
-Designed using [Bulma](https://bulma.io), and using [Vercel](https://vercel.com/) for continuous deployment.
+This repository serves the source code for [edsonfrainlar.com](https://edsonfrainlar.com/). It follows the [JAMstack architecture](https://jamstack.org). Designed using [Bulma](https://bulma.io), and using [Render](https://render.com/) for continuous deployment.
 
 ## Main Sections
 
-Following are the main sections apart from my [blog](https://www.abhith.net/blog).
+Following are the main sections apart from my [blog](https://edsonfrainlar.com/blog).
 
 ### Developer Stories
 
-I read a lot, and that's how I stay updated about what's going on around.
-Here I am listing out some of the stories which I find useful.
-Find them [here](https://www.abhith.net/recommended/stories/).
+I read a lot, and that's how I stay updated about what's going on around. Here I am listing out some of the stories which I find useful. Find them [here](https://edsonfrainlar.com/recommended/stories/).
 
 ### Videos
 
-Here I am listing videos which worth sharing.
-Watch them [here](https://www.abhith.net/recommended/videos/)
+Similar to Developer Stories, here I am listing videos which worth sharing. Watch them [here](https://edsonfrainlar.com/recommended/videos/)
 
-### Tools and Services
+### Services
 
-Here I am sharing some tools and services which I find useful.
+There are plenty of online services available nowadays. Here I am sharing some of the useful ones which I explored yet.
+
+## Inspired By
+
+- [abhith.net](https://abhith.net)
+- [wowthemesnet/mundana-theme-jekyll](https://github.com/wowthemesnet/mundana-theme-jekyll)
+- [cssninjaStudio/krypton](https://github.com/cssninjaStudio/krypton)
+- [narative/gatsby-theme-novela](https://github.com/narative/gatsby-theme-novela/)
 
 ## CONTRIBUTING
 
-You can also suggest me good technical articles, videos and freemium tools and services.
-Contributions are always welcome, no matter how large or small.
-Before contributing, please read the [code of conduct](CODE_OF_CONDUCT.md).
+You can also suggest me good technical articles, videos and freemium tools and services. Contributions are always welcome, no matter how large or small. Before contributing, please read the [code of conduct](CODE_OF_CONDUCT.md).

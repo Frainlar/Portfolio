@@ -1,31 +1,32 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { graphql } from "gatsby";
-import Layout from "../components/layout";
-import Content, { HTMLContent } from "../components/content";
-import Seo from "../components/seo/seo";
-import Timeline from "../components/about/timeline";
-import PageHero from "@components/page-hero";
+import Layout from "../components/Layout";
+import Content, { HTMLContent } from "../components/Content";
+import SEO from "../components/SEO";
+import Timeline from "../components/about/Timeline";
 
-const AboutPageTemplate = ({
+export const AboutPageTemplate = ({
   title,
   content,
   description,
-  contentComponent,
+  contentComponent
 }) => {
   const PageContent = contentComponent || Content;
 
   return (
-    <>
-      <Seo title={title} description={description} slug="/about/" />
-      <PageHero title={title} subtitle={description} />
+    <div className="container">
+      <SEO title={title} description={description} slug="/about" />
       <section className="section">
-        <div className="container">
-          <PageContent className="content is-medium" content={content} />
+        <h1 className="title spanborder has-text-weight-bold">
+          <span> {title}</span>
+        </h1>
+        <div className="page-content">
+          <PageContent className="content" content={content} />
         </div>
       </section>
       <Timeline></Timeline>
-    </>
+    </div>
   );
 };
 
@@ -33,7 +34,7 @@ AboutPageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
   description: PropTypes.string,
   content: PropTypes.string,
-  contentComponent: PropTypes.func,
+  contentComponent: PropTypes.func
 };
 
 const AboutPage = ({ data }) => {
@@ -52,7 +53,7 @@ const AboutPage = ({ data }) => {
 };
 
 AboutPage.propTypes = {
-  data: PropTypes.object.isRequired,
+  data: PropTypes.object.isRequired
 };
 
 export default AboutPage;
