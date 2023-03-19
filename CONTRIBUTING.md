@@ -18,5 +18,5 @@ We actively welcome your pull requests!
 
 ## License
 
-By contributing to the edsonfrainlar.com, you agree that your contributions will be licensed
+By contributing to the abhith.net, you agree that your contributions will be licensed
 under its [MIT license](LICENSE).

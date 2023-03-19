@@ -1,8 +1,8 @@
 {
-  "name": "frainlar",
-  "description": "My thoughts about building enterprise class softwares",
+  "name": "abhith",
+  "description": "Abhith Rajan is a programmer, writer, technology advocate, and more.",
   "version": "2.0.0",
-  "author": "Edson Frainlar",
+  "author": "Abhith Rajan",
   "dependencies": {
     "@emotion/core": "^11.0.0",
     "@emotion/react": "^11.10.0",
@@ -62,7 +62,6 @@
     "puppeteer": "^15.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-github-btn": "^1.4.0",
     "react-helmet": "^6.1.0",
     "react-icons": "^4.4.0",
     "react-player": "^2.10.1",

@@ -1,16 +1,28 @@
-import React from "react";
-import Footer from "../components/Footer";
-import Navbar from "../components/Navbar";
-import "typeface-lora";
+/** @jsx jsx */
+import { jsx } from "theme-ui";
 
-const TemplateWrapper = ({ children }) => {
+import React from "react";
+import Footer from "./footer";
+import Navbar from "./navbar";
+import "fontsource-open-sans/latin.css";
+import "fontsource-lora/latin.css";
+
+const Layout = ({ children }) => {
   return (
     <>
       <Navbar />
-      <main role="main">{children}</main>
+      <main
+        sx={{
+          backgroundColor: "background",
+          color: "articleText",
+        }}
+        role="main"
+      >
+        {children}
+      </main>
       <Footer />
     </>
   );
 };
 
-export default TemplateWrapper;
+export default Layout;

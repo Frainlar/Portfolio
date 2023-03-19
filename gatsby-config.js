@@ -1,4 +1,4 @@
-const siteUrl = `https://edsonfrainlar.com`;
+const siteUrl = `https://www.abhith.net`;
 const contentPosts = "content/blog";
 const contentSnippets = "content/snippets";
 const contentAuthors = "content/authors";
@@ -19,19 +19,19 @@ if (IS_PULL_REQUEST === true) {
 
 module.exports = {
   siteMetadata: {
-    title: "Edson Frainlar",
+    title: "Abhith Rajan",
     description:
-      "My thoughts about building an enterprise class softwares",
+      "Abhith Rajan is a programmer, writer, technology advocate, and more.",
     siteUrl,
     author: {
-      name: "Edson Frainlar",
-      url: `https://twitter.com/FrainlarEdson`,
-      image: `https://edsonfrainlar.com/img/edson-frainlar.jpg`,
+      name: "Abhith Rajan",
+      url: `https://twitter.com/abhithrajan`,
+      image: `https://www.abhith.net/img/abhith.jpg`,
     },
-    image: `https://edsonfrainlar.com/img/ef-logo.png`,
+    image: `https://www.abhith.net/img/site/mindmap.png`,
     social: {
-      twitter: "@FrainlarEdson",
-      fbAppID: "208005471827631",
+      twitter: "@AbhithRajan",
+      fbAppID: "",
     },
   },
   mapping: {
@@ -42,7 +42,7 @@ module.exports = {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
         // You can add multiple tracking ids and a pageview event will be fired for all of them.
-        trackingIds: ["G-Z3472ZCX00"],
+        trackingIds: ["UA-104139048-1", "G-3JV7V7YBHL"],
         // This object gets passed directly to the gtag config command
         // This config will be shared across all trackingIds
         gtagConfig: {
@@ -63,7 +63,7 @@ module.exports = {
         // String value for your clarity project id
         // Project id is found in your clarity dashboard url
         // https://clarity.microsoft.com/projects/view/{clarity_project_id}/
-        clarity_project_id: "gax1o0je09",
+        clarity_project_id: "3y06r37z6k",
         // Boolean value for enabling clarity while developing
         // true will enable clarity tracking code on both development and production environments
         // false will enable clarity tracking code on production environment only
@@ -224,13 +224,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Edson Frainlar`,
-        short_name: `Frainlar`,
+        name: `Abhith Rajan`,
+        short_name: `Abhith`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#7b4397`,
+        theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `static/img/ef-logo.png`,
+        icon: `static/img/android-chrome-144x144.png`,
       },
     },
     {
@@ -268,14 +268,14 @@ module.exports = {
     {
       resolve: `gatsby-plugin-webmention`,
       options: {
-        username: "edsonfrainlar.com",
+        username: "www.abhith.net",
         identity: {
-          github: "Frainlar",
-          twitter: "FrainlarEdson",
+          github: "Abhith",
+          twitter: "AbhithRajan",
         },
         mentions: true,
         pingbacks: true,
-        domain: "edsonfrainlar.com",
+        domain: "www.abhith.net",
         fetchLimit: 10000,
         token: process.env.WEBMENTIONS_TOKEN,
       },

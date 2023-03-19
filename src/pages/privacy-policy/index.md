@@ -6,7 +6,7 @@ description: >-
     Read about our privacy statement which applies to any information or combination of information that could reasonably be used to identify you.
 ---
 
-"edsonfrainlar.com" takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
+"abhith.net" takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
 
 #### Collection of Routine Information
 
@@ -36,4 +36,4 @@ We reserve the right to update or change our Privacy Policy at any time and you 
 
 #### Contact Information
 
-For any questions or concerns regarding the privacy policy, please email at frainlar@pm.me.
+For any questions or concerns regarding the privacy policy, please email at abhith@pm.me.
