@@ -82,7 +82,7 @@ export const query = graphql`
           hero {
             full: childImageSharp {
               fluid(maxWidth: 2048, quality: 100) {
-                ...GatsbyImageSharpFluid_withWebp
+                ...GatsbyImageSharpFluid_withWebp_tracedSVG
               }
             }
           }
@@ -117,7 +117,7 @@ export const query = graphql`
           hero {
             full: childImageSharp {
               fluid(maxWidth: 2048, quality: 100) {
-                ...GatsbyImageSharpFluid_withWebp
+                ...GatsbyImageSharpFluid_withWebp_tracedSVG
               }
             }
           }
