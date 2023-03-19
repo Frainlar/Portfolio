@@ -5546,87 +5546,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"abhith@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "abhith@workspace:."
-  dependencies:
-    "@commitlint/cli": ^17.0.3
-    "@commitlint/config-conventional": ^17.0.3
-    "@emotion/core": ^11.0.0
-    "@emotion/react": ^11.10.0
-    "@emotion/styled": ^11.10.0
-    "@mdx-js/mdx": ^1.6.22
-    "@mdx-js/react": ^1.6.22
-    "@weknow/gatsby-remark-twitter": ^0.2.3
-    bulma: ^0.9.4
-    bulma-timeline: ^3.0.5
-    fontsource-lora: ^4.0.0
-    fontsource-open-sans: ^4.0.0
-    gatsby: ^4.20.0
-    gatsby-awesome-pagination: ^0.3.8
-    gatsby-plugin-catch-links: ^4.20.0
-    gatsby-plugin-clarity: ^1.0.0
-    gatsby-plugin-emotion: ^7.20.0
-    gatsby-plugin-feed: ^4.25.0
-    gatsby-plugin-google-gtag: ^4.25.0
-    gatsby-plugin-image: ^2.20.0
-    gatsby-plugin-manifest: ^4.25.0
-    gatsby-plugin-mdx: ^3.20.0
-    gatsby-plugin-nprogress: ^4.20.0
-    gatsby-plugin-offline: ^5.25.0
-    gatsby-plugin-polyfill-io: ^1.1.0
-    gatsby-plugin-react-helmet: ^5.20.0
-    gatsby-plugin-recaptcha: ^1.0.5
-    gatsby-plugin-robots-txt: ^1.7.1
-    gatsby-plugin-sass: ^5.20.0
-    gatsby-plugin-sharp: ^4.20.0
-    gatsby-plugin-sitemap: ^5.25.0
-    gatsby-plugin-theme-ui: ^0.14.7
-    gatsby-plugin-twitter: ^4.25.0
-    gatsby-plugin-webmention: ^0.2.0
-    gatsby-remark-autolink-headers: ^5.25.0
-    gatsby-remark-copy-linked-files: ^5.20.0
-    gatsby-remark-embed-video: ^3.2.1
-    gatsby-remark-external-links: ^0.0.4
-    gatsby-remark-images: ^6.20.0
-    gatsby-remark-images-medium-zoom: ^1.7.0
-    gatsby-remark-mermaid: ^2.1.0
-    gatsby-remark-numbered-footnotes: ^1.0.1
-    gatsby-remark-relative-images: ^0.3.0
-    gatsby-remark-responsive-iframe: ^5.20.0
-    gatsby-remark-smartypants: ^5.25.0
-    gatsby-source-filesystem: ^4.20.0
-    gatsby-transformer-json: ^4.25.0
-    gatsby-transformer-remark: ^5.25.1
-    gatsby-transformer-sharp: ^4.20.0
-    gatsby-transformer-yaml: ^4.25.0
-    husky: ^8.0.1
-    intersection-observer: ^0.12.2
-    lodash: ^4.17.21
-    lodash-webpack-plugin: ^0.11.6
-    npm-run-all: ^4.1.5
-    parcel-bundler: ^1.12.5
-    prism-react-renderer: ^1.3.5
-    prismjs: ^1.28.0
-    prop-types: ^15.8.1
-    puppeteer: ^15.5.0
-    react: ^18.2.0
-    react-dom: ^18.2.0
-    react-helmet: ^6.1.0
-    react-icons: ^4.4.0
-    react-player: ^2.10.1
-    react-recaptcha: ^2.3.10
-    react-share: ^4.4.0
-    react-tsparticles: ^1.42.2
-    reading-time: ^1.5.0
-    remark-emoji: ^2.2.0
-    resolve-url-loader: ^5.0.0
-    sass: ^1.54.3
-    smooth-scroll: ^16.1.3
-    theme-ui: ^0.14.7
-  languageName: unknown
-  linkType: soft
-
 "abort-controller@npm:3.0.0":
   version: 3.0.0
   resolution: "abort-controller@npm:3.0.0"
@@ -11843,6 +11762,88 @@ __metadata:
   languageName: node
   linkType: hard
 
+"frainlar@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "frainlar@workspace:."
+  dependencies:
+    "@commitlint/cli": ^17.0.3
+    "@commitlint/config-conventional": ^17.0.3
+    "@emotion/core": ^11.0.0
+    "@emotion/react": ^11.10.0
+    "@emotion/styled": ^11.10.0
+    "@mdx-js/mdx": ^1.6.22
+    "@mdx-js/react": ^1.6.22
+    "@weknow/gatsby-remark-twitter": ^0.2.3
+    bulma: ^0.9.4
+    bulma-timeline: ^3.0.5
+    fontsource-lora: ^4.0.0
+    fontsource-open-sans: ^4.0.0
+    gatsby: ^4.20.0
+    gatsby-awesome-pagination: ^0.3.8
+    gatsby-plugin-catch-links: ^4.20.0
+    gatsby-plugin-clarity: ^1.0.0
+    gatsby-plugin-emotion: ^7.20.0
+    gatsby-plugin-feed: ^4.25.0
+    gatsby-plugin-google-gtag: ^4.25.0
+    gatsby-plugin-image: ^2.20.0
+    gatsby-plugin-manifest: ^4.25.0
+    gatsby-plugin-mdx: ^3.20.0
+    gatsby-plugin-nprogress: ^4.20.0
+    gatsby-plugin-offline: ^5.25.0
+    gatsby-plugin-polyfill-io: ^1.1.0
+    gatsby-plugin-react-helmet: ^5.20.0
+    gatsby-plugin-recaptcha: ^1.0.5
+    gatsby-plugin-robots-txt: ^1.7.1
+    gatsby-plugin-sass: ^5.20.0
+    gatsby-plugin-sharp: ^4.20.0
+    gatsby-plugin-sitemap: ^5.25.0
+    gatsby-plugin-theme-ui: ^0.14.7
+    gatsby-plugin-twitter: ^4.25.0
+    gatsby-plugin-webmention: ^0.2.0
+    gatsby-remark-autolink-headers: ^5.25.0
+    gatsby-remark-copy-linked-files: ^5.20.0
+    gatsby-remark-embed-video: ^3.2.1
+    gatsby-remark-external-links: ^0.0.4
+    gatsby-remark-images: ^6.20.0
+    gatsby-remark-images-medium-zoom: ^1.7.0
+    gatsby-remark-mermaid: ^2.1.0
+    gatsby-remark-numbered-footnotes: ^1.0.1
+    gatsby-remark-relative-images: ^0.3.0
+    gatsby-remark-responsive-iframe: ^5.20.0
+    gatsby-remark-smartypants: ^5.25.0
+    gatsby-source-filesystem: ^4.20.0
+    gatsby-transformer-json: ^4.25.0
+    gatsby-transformer-remark: ^5.25.1
+    gatsby-transformer-sharp: ^4.20.0
+    gatsby-transformer-yaml: ^4.25.0
+    husky: ^8.0.1
+    intersection-observer: ^0.12.2
+    lodash: ^4.17.21
+    lodash-webpack-plugin: ^0.11.6
+    npm-run-all: ^4.1.5
+    parcel-bundler: ^1.12.5
+    prism-react-renderer: ^1.3.5
+    prismjs: ^1.28.0
+    prop-types: ^15.8.1
+    puppeteer: ^15.5.0
+    react: ^18.2.0
+    react-dom: ^18.2.0
+    react-github-btn: ^1.4.0
+    react-helmet: ^6.1.0
+    react-icons: ^4.4.0
+    react-player: ^2.10.1
+    react-recaptcha: ^2.3.10
+    react-share: ^4.4.0
+    react-tsparticles: ^1.42.2
+    reading-time: ^1.5.0
+    remark-emoji: ^2.2.0
+    resolve-url-loader: ^5.0.0
+    sass: ^1.54.3
+    smooth-scroll: ^16.1.3
+    theme-ui: ^0.14.7
+  languageName: unknown
+  linkType: soft
+
 "fresh@npm:0.5.2":
   version: 0.5.2
   resolution: "fresh@npm:0.5.2"
@@ -13245,6 +13246,13 @@ __metadata:
     is-ssh: ^1.3.0
     parse-url: ^6.0.0
   checksum: dd8f39a115ec0523b7da369cd4c6dc94a9b11fcc652e6fc9d011a93c287e27cc34e1d1c89cff8864f9ab11a1b2bea49786951d8eb3f1e5babd351afcc63f6135
+  languageName: node
+  linkType: hard
+
+"github-buttons@npm:^2.22.0":
+  version: 2.24.0
+  resolution: "github-buttons@npm:2.24.0"
+  checksum: 3bf27f9078180e36cfc87e214e788898da603d606c871deedc40b7edef4abf3f659a6cff65bd6990c07f59f473468de92174a04a91c42ca95b868d5da1c4d287
   languageName: node
   linkType: hard
 
@@ -20394,6 +20402,17 @@ __metadata:
   version: 3.2.0
   resolution: "react-fast-compare@npm:3.2.0"
   checksum: 8ef272c825ae329f61633ce4ce7f15aa5b84e5214d88bc0823880236e03e985a13195befa2c7a4eda7db3b017dc7985729152d88445823f652403cf36c2b86aa
+  languageName: node
+  linkType: hard
+
+"react-github-btn@npm:^1.4.0":
+  version: 1.4.0
+  resolution: "react-github-btn@npm:1.4.0"
+  dependencies:
+    github-buttons: ^2.22.0
+  peerDependencies:
+    react: ">=16.3.0"
+  checksum: 33a416ad76ab4cc9238ac5cf5cfcab636bb2127c48fb30805385350fd3a3c2aa0aaeb78f6c726c52a0d3d133ca469be35d4b3d188c8e40c735c7ff458d2c8c3c
   languageName: node
   linkType: hard
 
