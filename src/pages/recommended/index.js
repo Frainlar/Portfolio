@@ -20,7 +20,7 @@ export default class RecommendedIndexPage extends React.Component {
     const services = data.services.edges;
 
     const pageTitle = `Recommended`;
-    const subTitle = `Developer stories, videos, and services which Abhith recommends.`;
+    const subTitle = `Developer stories, videos, and services which Edson recommends.`;
 
     return (
       <Layout>

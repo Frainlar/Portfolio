@@ -91,7 +91,7 @@ function Footer() {
                     <li>
                       <OutboundLink
                         target="_blank"
-                        href={`https://www.linkedin.com/in/abhith`}
+                        href={`https://www.linkedin.com/in/edson-frainlar`}
                       >
                         <img
                           role="presentation"
@@ -104,31 +104,31 @@ function Footer() {
                     <li className="has-margin">
                       <a
                         className="twitter-follow-button"
-                        href="https://twitter.com/abhithrajan"
+                        href="https://twitter.com/FrainlarEdson"
                         data-size="large"
                         data-show-screen-name="false"
                       >
-                        Follow @AbhithRajan
+                        Follow @FrainlarEdson
                       </a>
                     </li>
                     <li className="has-margin">
                       <iframe
-                        src="https://ghbtns.com/github-btn.html?user=Abhith&type=follow&count=true&size=large"
+                        src="https://ghbtns.com/github-btn.html?user=Frainlar&type=follow&count=true&size=large"
                         frameBorder="0"
                         scrolling="0"
                         width="230"
                         height="30"
-                        title="Follow @Abhith on GitHub"
+                        title="Follow @Frainlar on GitHub"
                       ></iframe>
                     </li>
                     <li className="has-margin">
                       <iframe
-                        src="https://ghbtns.com/github-btn.html?user=Abhith&repo=abhith.net&type=star&count=true&size=large"
+                        src="https://ghbtns.com/github-btn.html?user=Frainlar&repo=Portfolio.net&type=star&count=true&size=large"
                         frameBorder="0"
                         scrolling="0"
                         width="170"
                         height="30"
-                        title="Star abhith/abhith.net on GitHub"
+                        title="Star Frainlar/Portfolio on GitHub"
                       ></iframe>
                     </li>
                   </ul>

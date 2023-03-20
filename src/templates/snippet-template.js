@@ -33,7 +33,7 @@ const SnippetPage = ({ pageContext, data, location }) => {
 
   const pageTitle = `${category.title} - ${snippet.title}`;
 
-  const githubURL = `https://github.com/abhith/abhith.net/blob/master/content${snippet.slug.substring(
+  const githubURL = `https://github.com/Frainlar/Portfolio/blob/master/content${snippet.slug.substring(
     0,
     snippet.slug.length - 1
   )}.mdx`;
@@ -73,7 +73,7 @@ const SnippetPage = ({ pageContext, data, location }) => {
                         <BreadcrumbActive>
                           <a
                             className="u-url"
-                            href={"https://www.abhith.net" + snippet.slug}
+                            href={"https://edsonfrainlar.com" + snippet.slug}
                           >
                             {snippet.title}
                           </a>

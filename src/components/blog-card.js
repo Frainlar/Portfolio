@@ -170,10 +170,10 @@ const BlogCard = ({ post, tag }) => {
           <div className="post-meta">
             <div className="author-block">
               <div className="image is-48x48">
-                <img src="/img/abhith.jpg" alt="abhith rajan" />
+                <img src="/img/edson-frainlar.jpg" alt="Edson Frainlar" />
               </div>
               <div className="author-name">
-                <span>by Abhith Rajan</span>
+                <span>by Edson Frainlar</span>
                 <TopicsBar topics={post.tags} />
               </div>
             </div>

@@ -40,7 +40,7 @@ function SnippetsPage({ pageContext, data }) {
                     <li className="is-active">
                       <a
                         className="u-url"
-                        href={`https://www.abhith.net/snippets/${category.slug}/`}
+                        href={`https://edsonfrainlar.com/snippets/${category.slug}/`}
                       >
                         {category.title}
                       </a>

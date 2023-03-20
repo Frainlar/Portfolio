@@ -12,12 +12,12 @@ const GitHubStar = () => {
       </div>
       <div className="is-centered">
         <iframe
-          src="https://ghbtns.com/github-btn.html?user=Abhith&repo=abhith.net&type=star&count=true&size=large"
+          src="https://ghbtns.com/github-btn.html?user=Frainlar&repo=Portfolio&type=star&count=true&size=large"
           frameBorder="0"
           scrolling="0"
           width="120"
           height="30"
-          title="Star abhith/abhith.net on GitHub"
+          title="Star Frainlar/Portfolio on GitHub"
         ></iframe>
       </div>
     </div>

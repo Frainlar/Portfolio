@@ -21,7 +21,7 @@ function BlogPage({ pageContext, data }) {
       <PageHero
         title={`All Articles`}
         subtitle={subTitle}
-        subscribeUrl={`https://www.abhith.net/blog/rss.xml`}
+        subscribeUrl={`https://edsonfrainlar.com/blog/rss.xml`}
       />
       <div className="section">
         <div className="container">
@@ -37,7 +37,7 @@ function BlogPage({ pageContext, data }) {
                       <BreadcrumbActive>
                         <a
                           className="u-url"
-                          href={`https://www.abhith.net/blog/`}
+                          href={`https://edsonfrainlar.com/blog/`}
                         >
                           {pageTitle}
                         </a>

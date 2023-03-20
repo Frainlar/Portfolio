@@ -12,7 +12,7 @@ export default class RecommendedServicesIndexPage extends React.Component {
     const { previousPagePath, nextPagePath } = pageContext;
     const services = data.recommendedServices.edges;
     const pageTitle = `Recommended Tools & Services`;
-    const subTitle = `Tools and services which Abhith recommends.`;
+    const subTitle = `Tools and services which Edson recommends.`;
     return (
       <Layout>
         <Seo

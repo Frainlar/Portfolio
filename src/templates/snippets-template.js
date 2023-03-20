@@ -32,7 +32,7 @@ function SnippetsPage({ pageContext, data }) {
                       <BreadcrumbActive>
                         <a
                           className="u-url"
-                          href={`https://www.abhith.net/snippets/`}
+                          href={`https://edsonfrainlar.com/snippets/`}
                         >
                           {pageTitle}
                         </a>

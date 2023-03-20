@@ -11,7 +11,7 @@ const PageTemplate = (props) => {
 
   return (
     <Layout>
-      {/* TODO(abhith): remove hard coded slug */}
+      {/* TODO(edson): remove hard coded slug */}
       <Seo title={title} description={description} slug="/donate/" />
       <PageHero title={title} subtitle={description} />
       <section className="section">

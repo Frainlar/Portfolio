@@ -12,10 +12,10 @@ const Giscus = () => {
     const giscus = document.createElement("script");
     const giscusConfig = {
       src,
-      "data-repo": "abhith/abhith.net",
-      "data-repo-id": "MDEwOlJlcG9zaXRvcnkxMDE4OTk5NDk=",
+      "data-repo": "Frainlar/Portfolio",
+      "data-repo-id": "MDEwOlJlcG9zaXRvcnkyNDU3MTgyMTc=",
       "data-category": "Comments",
-      "data-category-id": "DIC_kwDOBhLerc4CQjyF",
+      "data-category-id": "DIC_kwDODqVcyc4CVAp5",
       "data-mapping": "pathname",
       "data-strict": "0",
       "data-reactions-enabled": "1",

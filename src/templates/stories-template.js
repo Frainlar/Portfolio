@@ -12,7 +12,7 @@ function StoriesPage({ pageContext, data }) {
   const { previousPagePath, nextPagePath, topics } = pageContext;
   const stories = data.recommendedStories.edges;
   const pageTitle = `Recommended Developer Stories`;
-  const subTitle = `Developer stories which Abhith recommends.`;
+  const subTitle = `Developer stories which Edson recommends.`;
   return (
     <Layout>
       <Seo
@@ -23,7 +23,7 @@ function StoriesPage({ pageContext, data }) {
       <PageHero
         title={pageTitle}
         subtitle={subTitle}
-        subscribeUrl={`https://www.abhith.net/recommended/stories/rss.xml`}
+        subscribeUrl={`https://edsonfrainlar.com/recommended/stories/rss.xml`}
       />
       <div className="section">
         <div className="container">

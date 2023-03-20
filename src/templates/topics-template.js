@@ -37,12 +37,12 @@ function TopicsPage({ pageContext }) {
     <Layout>
       <Seo
         title="Topics"
-        description={`Summary of all the ${topics.length} topics in abhith.net`}
+        description={`Summary of all the ${topics.length} topics in edsonfrainlar.com`}
         slug="/topics/"
       />
       <PageHero
         title={`All Topics`}
-        subtitle={`Summary of all the ${topics.length} topics in abhith.net`}
+        subtitle={`Summary of all the ${topics.length} topics in edsonfrainlar.com`}
         className={`position-relative page-hero`}
       />
       <section className="section">

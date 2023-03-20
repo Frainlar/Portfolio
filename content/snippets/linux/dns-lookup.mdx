@@ -1,21 +1,21 @@
 ---
 title: DNS Lookup
 description: Uses curl to get a response from the specified domain. Useful for identifying the intermittent DNS timeout as well.
-author: Abhith Rajan
+author: Edson Frainlar
 date: 2020-09-23T09:26:00.000Z
 topics:
   - linux
 ---
 
 ```bash
-for i in {1..10}; do curl -k -o /dev/null -s -w "DNS-Lookup [%{time_namelookup}] Time-Connect [%{time_connect}] Time-PreTransfer [%{time_pretransfer}] Time-StartTransfer [%{time_starttransfer}] Total-Time [%{time_total}] Response-Code [%{http_code}]\n" https://www.abhith.net; done
+for i in {1..10}; do curl -k -o /dev/null -s -w "DNS-Lookup [%{time_namelookup}] Time-Connect [%{time_connect}] Time-PreTransfer [%{time_pretransfer}] Time-StartTransfer [%{time_starttransfer}] Total-Time [%{time_total}] Response-Code [%{http_code}]\n" https://edsonfrainlar.com; done
 ```
 
 ## Sample Output
 
 ```bash
 root@pod-name-69d96c5494-bd97v:/app# for i in {1..10}; do curl -k -o /dev/null -s -w "DNS-Lookup [%{time_namelookup}] Time-Connect [%{time_connect}] Time-PreTransfer [%{time_pretransfer}] Time-StartTransfer [%{time_s
-tarttransfer}] Total-Time [%{time_total}] Response-Code [%{http_code}]\n" https://www.abhith.net; done
+tarttransfer}] Total-Time [%{time_total}] Response-Code [%{http_code}]\n" https://edsonfrainlar.com; done
 DNS-Lookup [5.465393] Time-Connect [5.542967] Time-PreTransfer [5.626041] Time-StartTransfer [6.024135] Total-Time [6.261565] Response-Code [200]
 DNS-Lookup [0.458571] Time-Connect [0.536812] Time-PreTransfer [0.619370] Time-StartTransfer [0.960386] Total-Time [1.199219] Response-Code [200]
 DNS-Lookup [0.005218] Time-Connect [0.083305] Time-PreTransfer [0.167227] Time-StartTransfer [0.505865] Total-Time [0.745717] Response-Code [200]

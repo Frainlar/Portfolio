@@ -35,7 +35,7 @@ const ArticlePage = ({ pageContext, data, location }) => {
     next,
     previous,
   } = pageContext;
-  const githubURL = `https://github.com/abhith/abhith.net/blob/master/content${article.slug.substring(
+  const githubURL = `https://github.com/Frainlar/Portfolio/blob/master/content${article.slug.substring(
     0,
     article.slug.length - 1
   )}.mdx`;
@@ -81,7 +81,7 @@ const ArticlePage = ({ pageContext, data, location }) => {
                         <BreadcrumbActive>
                           <a
                             className="u-url"
-                            href={"https://www.abhith.net" + article.slug}
+                            href={"https://edsonfrainlar.com" + article.slug}
                             sx={{
                               color: "strongText",
                             }}

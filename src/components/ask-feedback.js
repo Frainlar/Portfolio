@@ -24,7 +24,7 @@ const AskFeedback = () => {
         <h5>
           👊 that ⭐️ button on the official{" "}
           <a
-            href="https://github.com/abhith/abhith.net"
+            href="https://github.com/Frainlar/Portfolio"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -41,7 +41,7 @@ const AskFeedback = () => {
     note = (
       <div className="notification is-warning is-light has-text-centered">
         <h4>Sorry about that!</h4>
-        <p> TODO(abhith): Please let me know how can I improve it?</p>
+        <p> TODO(frainlar): Please let me know how can I improve it?</p>
       </div>
     );
   } else {

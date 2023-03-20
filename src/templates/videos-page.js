@@ -12,7 +12,7 @@ function VideosPage({ pageContext, data }) {
   const { previousPagePath, nextPagePath, topics } = pageContext;
   const videos = data.recommendedVideos.edges;
   const pageTitle = `Recommended Videos`;
-  const subTitle = `Videos which Abhith recommends.`;
+  const subTitle = `Videos which Edson recommends.`;
   const rowElements = [];
   let rowItemsCollection = [];
   rowItemsCollection = chunk(videos, 2);

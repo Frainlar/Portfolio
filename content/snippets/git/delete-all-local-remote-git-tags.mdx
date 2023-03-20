@@ -1,7 +1,7 @@
 ---
 title: Delete All Local/Remote Git Tags
 description: Remove all git tags from your local/origin git repository.
-author: Abhith Rajan
+author: Edson Frainlar
 date: 2022-06-02T09:26:00.000Z
 topics:
   - git
@@ -48,7 +48,7 @@ Once again, deletes all local tags.
 
 One of the rare occasions to delete all tags in my case was, that we were maintaining a monorepo in Azure DevOps, and wanted to migrate it to GitHub, but in a **repo per component** manner. So,
 
-- First I did import the monorepo by following :point_right: [Code Migration From Azure DevOps to GitHub](https://www.abhith.net/blog/github-vs-azure-devops-for-code/#code-migration-from-azure-devops-to-github),
+- First I did import the monorepo by following :point_right: [Code Migration From Azure DevOps to GitHub](https://edsonfrainlar.com/blog/github-vs-azure-devops-for-code/#code-migration-from-azure-devops-to-github),
 - Then removed all other component's code from the repo (git history is still dirty with other component's old commits)
 - Re-configured the existing Azure pipeline triggers, i.e switched to a tag-based trigger. So, on each new release in GitHub, the connected Azure pipelines will run.
 

@@ -9,5 +9,5 @@ export const domainFromURL = (url) => {
 export const transformURL = (url) => {
   return `${url}${
     url.includes("?") ? "&" : "?"
-  }utm_source=www.abhith.net&utm_medium=website&utm_campaign=recommended`;
+  }utm_source=edsonfrainlar.com&utm_medium=website&utm_campaign=recommended`;
 };

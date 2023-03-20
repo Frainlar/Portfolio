@@ -128,7 +128,7 @@ module.exports = async ({ graphql, actions, reporter }) => {
         relatedSnippets,
         next: articles[index - 1],
         previous: articles[index + 1],
-        permalink: `https://www.abhith.net${article.slug}`,
+        permalink: `https://edsonfrainlar.com${article.slug}`,
       },
     });
   });
@@ -374,7 +374,7 @@ module.exports = async ({ graphql, actions, reporter }) => {
           category: topics.find((topic) => topic.slug === snippet.topics[0]),
           next: snippets[index - 1],
           previous: snippets[index + 1],
-          permalink: `https://www.abhith.net${snippet.slug}`,
+          permalink: `https://edsonfrainlar.com${snippet.slug}`,
         },
       });
     });
@@ -441,7 +441,7 @@ module.exports = async ({ graphql, actions, reporter }) => {
             topic,
             stories: relatedStories,
             topics,
-            permalink: `https://www.abhith.net${topicStoriesPath}`,
+            permalink: `https://edsonfrainlar.com${topicStoriesPath}`,
           },
         });
       }
@@ -458,7 +458,7 @@ module.exports = async ({ graphql, actions, reporter }) => {
             topic,
             videos: relatedVideos,
             topics,
-            permalink: `https://www.abhith.net${topicVideosPath}`,
+            permalink: `https://edsonfrainlar.com${topicVideosPath}`,
           },
         });
       }
@@ -475,7 +475,7 @@ module.exports = async ({ graphql, actions, reporter }) => {
             topic,
             tools: relatedTools,
             topics,
-            permalink: `https://www.abhith.net${topicToolsPath}`,
+            permalink: `https://edsonfrainlar.com${topicToolsPath}`,
           },
         });
       }
