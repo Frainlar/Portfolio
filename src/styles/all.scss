@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&display=swap');
 @import "partials/_colors";
 @import "partials/_theme-default";
 @import "~bulma";
@@ -7,3 +8,7 @@
 @import "partials/_hero";
 @import "partials/_blog";
 @import "partials/_footer";
+
+* {
+  font-family: 'Lexend', sans-serif;
+}
