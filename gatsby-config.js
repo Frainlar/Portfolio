@@ -302,10 +302,10 @@ module.exports = {
         }) => {
           siteMetadata.feed_url = siteMetadata.siteUrl + "/blog/rss.xml";
           siteMetadata.image_url =
-            siteMetadata.siteUrl + "/img/site/brand/icon.png";
+            siteMetadata.siteUrl + "/img/ef-logo.png";
           const siteMetadataModified = siteMetadata;
           siteMetadataModified.feed_url = `${siteMetadata.siteUrl}/blog/rss.xml`;
-          siteMetadataModified.image_url = `${siteMetadata.siteUrl}/img/site/brand/icon.png`;
+          siteMetadataModified.image_url = `${siteMetadata.siteUrl}/img/ef-logo.png`;
 
           return {
             ...siteMetadataModified,

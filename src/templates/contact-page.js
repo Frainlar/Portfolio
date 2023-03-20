@@ -39,7 +39,7 @@ const ContactPageTemplate = ({
             <div className="column is-offset-1 is-6">
               <div className="form-module--component--1t7o4">
                 <form
-                  action="https://getform.io/f/a29691ae-8828-49d6-9b50-242187f6ca83"
+                  action="https://getform.io/f/090d628b-597b-4007-911f-969d569ad3de"
                   method="POST"
                 >
                   <div className="block">
@@ -64,7 +64,7 @@ const ContactPageTemplate = ({
                     ></textarea>
                   </div>
                   <div className="block">
-                    <Recaptcha sitekey="6Ldl1v0UAAAAADH7egN2bhDoyLhv5k6hj3H4y2cM" />
+                    <Recaptcha sitekey="6LfPURMlAAAAAGnYHv9Bkjf_zvDPzQkRD0-IfjnL" />
                   </div>
                   <button className="button k-button k-primary raised has-gradient">
                     Send
