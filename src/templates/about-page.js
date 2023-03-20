@@ -24,7 +24,7 @@ const AboutPageTemplate = ({
           <PageContent className="content is-medium" content={content} />
         </div>
       </section>
-      <Timeline></Timeline>
+      {/* <Timeline></Timeline> */}
     </>
   );
 };
