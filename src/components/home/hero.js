@@ -11,7 +11,7 @@ export default function Hero() {
           <div className="hero-wrapper h-card">
             <section className="hero is-primary is-bold position-relative">
               <div className="hero-head"></div>
-              <div className="hero-body">
+              <div className="hero-body hero-center">
                 <div className="container">
                   <div className="columns is-vcentered">
                     <div className="column is-12 landing-caption">
