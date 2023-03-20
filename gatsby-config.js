@@ -28,7 +28,7 @@ module.exports = {
       url: `https://twitter.com/FrainlarEdson`,
       image: `https://edsonfrainlar.com/img/edson-frainlar.jpg`,
     },
-    image: `https://edsonfrainlar.com/img/site/mindmap.png`,
+    image: `https://edsonfrainlar.com/img/edson-frainlar.jpg`,
     social: {
       twitter: "@FrainlarEdson",
       fbAppID: "208005471827631",
