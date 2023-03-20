@@ -47,11 +47,6 @@ export const query = graphql`
       frontmatter {
         heading
         subheading
-        image {
-          childImageSharp {
-            gatsbyImageData(quality: 100, layout: FULL_WIDTH)
-          }
-        }
       }
     }
   }

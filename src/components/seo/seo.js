@@ -62,7 +62,7 @@ function Seo({
     ? `${site.siteMetadata.siteUrl}${slug}`
     : site.siteMetadata.siteUrl;
 
-  const defaultTitle = `Abhith Rajan - Coder, Blogger, Full Stack Developer, Technology Advocate`;
+  const defaultTitle = `Edson Frainlar - Coder, Blogger, Cloud Savvy, Technology Advocate`;
 
   title = title ? `${title} | ${site.siteMetadata.title}` : defaultTitle;
 
@@ -128,46 +128,46 @@ function Seo({
           },
           {
             name: "msapplication-TileImage",
-            content: "/img/mstile-150x150.png",
+            content: "/img/ef-logo.png",
           },
         ].concat(meta)}
         link={[
           {
             rel: "icon",
             type: "image/png",
-            href: "/img/favicon-16x16.png",
+            href: "/img/ef-logo.png",
             sizes: "16x16",
           },
           {
             rel: "icon",
             type: "image/png",
-            href: "/img/favicon-32x32.png",
+            href: "/img/ef-logo.png",
             sizes: "32x32",
           },
           {
             rel: "icon",
             type: "image/png",
             sizes: "144x144",
-            href: "/img/android-chrome-144x144.png",
+            href: "/img/ef-logo.png",
           },
           {
             rel: "apple-touch-icon",
             type: "image/png",
             sizes: "180x180",
-            href: "/img/apple-touch-icon.png",
+            href: "/img/ef-logo.png",
           },
           {
             rel: "mask-icon",
-            href: "/img/safari-pinned-tab.svg",
+            href: "/img/ef-logo.svg",
             color: "#ff4400",
           },
           {
             rel: "me",
-            href: "https://twitter.com/abhithrajan",
+            href: "https://twitter.com/FrainlarEdson",
           },
           {
             rel: "me",
-            href: "https://github.com/Abhith",
+            href: "https://github.com/Frainlar",
           },
         ]}
       />
