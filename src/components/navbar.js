@@ -32,18 +32,9 @@ function Navbar({ logo }) {
   return (
     <nav className="navbar is-spaced" id="ar-navbar">
       <div className="navbar-brand">
-        <Link to="/" className="navbar-item">
-          <figure className="image is-vertical-center">
-            <GatsbyImage
-              image={logo.childImageSharp.gatsbyImageData}
-              alt="logo"
-              className="nav-logo"
-            />
-          </figure>
-        </Link>
         <OutboundLink
           className="navbar-item is-hidden-desktop"
-          href="https://github.com/abhith/abhith.net"
+          href="https://github.com/Frainlar"
           target="_blank"
         >
           <span className="icon">
@@ -52,7 +43,7 @@ function Navbar({ logo }) {
         </OutboundLink>
         <OutboundLink
           className="navbar-item is-hidden-desktop"
-          href="https://twitter.com/AbhithRajan"
+          href="https://twitter.com/FrainlarEdson"
           target="_blank"
         >
           <span className="icon" style={{ color: "#55acee" }}>
@@ -119,7 +110,7 @@ function Navbar({ logo }) {
           <div className="navbar-item is-hidden-touch">
             <div className="field is-grouped">
               <iframe
-                src="https://ghbtns.com/github-btn.html?user=Abhith&repo=abhith.net&type=star&count=true&size=large"
+                src="https://ghbtns.com/github-btn.html?user=Frainlar&repo=Portfolio&type=star&count=true&size=large"
                 frameBorder="0"
                 scrolling="0"
                 width="170"
@@ -130,7 +121,7 @@ function Navbar({ logo }) {
           </div>
           <OutboundLink
             className="navbar-item is-hidden-touch"
-            href="https://github.com/abhith/abhith.net"
+            href="https://github.com/Frainlar/"
             target="_blank"
           >
             <span className="icon">
@@ -139,7 +130,7 @@ function Navbar({ logo }) {
           </OutboundLink>
           <OutboundLink
             className="navbar-item is-hidden-touch"
-            href="https://twitter.com/AbhithRajan"
+            href="https://twitter.com/FrainlarEdson"
             target="_blank"
           >
             <span className="icon" style={{ color: "#55acee" }}>

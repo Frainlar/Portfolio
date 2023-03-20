@@ -1,7 +1,7 @@
-- name: Abhith Rajan
-  slug: abhith
+- name: Edson Frainlar
+  slug: frainlar
   bio: |
     Abhith Rajan is a software engineer by day and a full-stack developer by night. He's coding for almost a decade now. He codes 🧑‍💻, write ✍️, learn 📖 and advocate 👍.
-  avatar: ./avatars/abhith.jpg
-  twitter: "@AbhithRajan"
+  avatar: ./avatars/frainlar.jpg
+  twitter: "@FrainlarEdson"
   featured: true

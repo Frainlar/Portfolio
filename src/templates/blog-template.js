@@ -13,7 +13,7 @@ function BlogPage({ pageContext, data }) {
   const articles = data.articles.edges.map(normalize.local.articles);
   const { previousPagePath, nextPagePath, topics } = pageContext;
   const pageTitle = `Blog`;
-  const subTitle = `Abhith Rajan on Programming, The Web, Open Source, .NET, The Cloud and More.`;
+  const subTitle = `Edson Frainlar on Programming, The Web, Open Source, .NET, The Cloud and More.`;
 
   return (
     <Layout>

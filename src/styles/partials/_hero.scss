@@ -9,11 +9,25 @@
 }
 
 .hero-avatar {
-  height: 250px !important;
-  width: 250px !important;
+  height: 125px !important;
+  width: 125px !important;
   vertical-align: middle;
 }
 
 .hero-wrapper {
   position: relative;
+}
+
+.hero-body {
+  text-align: center;
+  background: linear-gradient(rgb(7, 6, 36) -17.19%, rgba(7, 6, 36, 0) 111.4%), linear-gradient(86.97deg, rgba(255, 168, 0, 0.4) -0.67%, rgba(25, 187, 125, 0.4) 24.91%, rgba(0, 82, 204, 0.4) 48.82%, rgba(69, 164, 236, 0.4) 72.18%, rgba(184, 95, 255, 0.4) 88.31%), rgb(7, 6, 36);
+}
+
+.head-name {
+  font-size: 72px;
+  font-weight: 700;
+  background: -webkit-linear-gradient(90.05deg, rgb(181, 255, 211) 0.02%, rgb(209, 164, 255) 39.16%, rgb(255, 165, 175) 75.82%, rgb(255, 220, 164) 112%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  letter-spacing: -0.091rem;
 }

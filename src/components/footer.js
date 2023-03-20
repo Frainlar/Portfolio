@@ -24,13 +24,13 @@ function Footer() {
               <Link to="/" className="brand">
                 <div className="brand-icon">
                   <img
-                    alt="Abhith Rajan"
+                    alt="Edson Frainlar"
                     role="presentation"
-                    src="/img/site/brand/icon.png"
+                    src="/img/ef-logo.jpg"
                   />
                 </div>
                 <div className="brand-content">
-                  <div className="brand-title"> Abhith Rajan </div>
+                  <div className="brand-title"> Edson Frainlar </div>
                   <div className="brand-subtitle">Full Stack Dev</div>
                 </div>
               </Link>
